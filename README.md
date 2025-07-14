@@ -31,8 +31,8 @@ bluetooth_attendance/
 ### 1️⃣ Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/bluetooth_attendance.git
-cd bluetooth_attendance
+git clone https://github.com/Shakestein/UG-Project-BAS-
+cd UG-Project-BAS-
 ```
 
 ### 2️⃣ Create and Activate Virtual Environment
